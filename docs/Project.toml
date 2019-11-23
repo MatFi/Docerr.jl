@@ -1,0 +1,3 @@
+[deps]
+Docerr = "f40aa5b1-894b-4d8e-9725-3d1b55e37be6"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
